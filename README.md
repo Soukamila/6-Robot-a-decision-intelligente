@@ -7,6 +7,8 @@ Formatteur : Carlos Yfrazin
 Plateforme utilisée : Wokwi;
 Carte utilisée : ESP32
 
+Lien du projet: https://wokwi.com/projects/477700758461392897
+
 1. Présentation du projet
 Ce projet consiste à créer un petit système intelligent capable de prendre une décision automatiquement en fonction de la distance mesurée par un capteur ultrasonique.
 Le système utilise une carte ESP32, un capteur HC-SR04, une LED rouge et un buzzer. Lorsque la distance entre le capteur et un objet est inférieure ou égale à 20 cm, la LED s’allume et le buzzer émet un son. Lorsque l’objet se trouve à une distance supérieure à 20 cm, la LED s’éteint et le buzzer s’arrête.
