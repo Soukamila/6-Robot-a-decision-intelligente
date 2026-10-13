@@ -1,6 +1,7 @@
 # 6-Robot-a-decision-intelligente
 Formation : Robotique et Intelligence Artificielle — EIC 3.0
 Formatteur : Carlos Yfrazin
+
 Étudiante : LUMERANT Laisha Mitsouka
 Plateforme utilisée : Wokwi
 Carte utilisée : ESP32
